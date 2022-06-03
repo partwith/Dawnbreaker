@@ -1,0 +1,8 @@
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/CMakeFiles/ProvidedFramework.dir
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/CMakeFiles/PartForYou.dir
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/CMakeFiles/Dawnbreaker.dir
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/CMakeFiles/edit_cache.dir
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/CMakeFiles/rebuild_cache.dir
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/SOIL/CMakeFiles/SOIL.dir
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/SOIL/CMakeFiles/edit_cache.dir
+/Users/jizhehou/Documents/savvy/c++/CS100-HW89/build/SOIL/CMakeFiles/rebuild_cache.dir

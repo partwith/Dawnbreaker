@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc lib/libPartForYou.a CMakeFiles/PartForYou.dir/src/PartForYou/GameWorld.cpp.o CMakeFiles/PartForYou.dir/src/PartForYou/GameObjects.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib lib/libPartForYou.a

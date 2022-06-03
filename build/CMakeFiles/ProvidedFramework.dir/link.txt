@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc lib/libProvidedFramework.a CMakeFiles/ProvidedFramework.dir/src/ProvidedFramework/ObjectBase.cpp.o CMakeFiles/ProvidedFramework.dir/src/ProvidedFramework/WorldBase.cpp.o CMakeFiles/ProvidedFramework.dir/src/ProvidedFramework/GameManager.cpp.o CMakeFiles/ProvidedFramework.dir/src/ProvidedFramework/SpriteManager.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib lib/libProvidedFramework.a
